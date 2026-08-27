@@ -2,6 +2,12 @@
 --------------------------------------------------------------------
 An end-to-end data project covering the 2026 FIFA World Cup (USA, Canada & Mexico): web scraping, data cleaning, and an interactive, stadium-themed Power BI dashboard built with custom HTML visuals.
 <img width="1358" height="766" alt="Screenshot 2026-08-28 013824" src="https://github.com/user-attachments/assets/3b981d46-5370-46a6-a914-da7505d9e153" />
+<img width="1361" height="765" alt="Screenshot 2026-08-28 013911" src="https://github.com/user-attachments/assets/692773ee-35ec-473c-b416-511efec4dfb3" />
+<img width="1372" height="766" alt="Screenshot 2026-08-28 013917" src="https://github.com/user-attachments/assets/5108f693-6c9c-4f13-b46c-20f75874e7ee" />
+<img width="1380" height="764" alt="Screenshot 2026-08-28 013925" src="https://github.com/user-attachments/assets/e8f78453-c8e2-4812-aa76-b758aec480f3" />
+<img width="1367" height="763" alt="Screenshot 2026-08-28 013935" src="https://github.com/user-attachments/assets/1e8d498d-663b-4b5f-ba56-512e60b5432b" />
+<img width="1383" height="769" alt="Screenshot 2026-08-28 013949" src="https://github.com/user-attachments/assets/beced68d-3eca-45fc-a002-67a9e9f5442a" />
+
 ---------------------------------------------------------------------------------------------------------
 
 ## 📌 Overview
